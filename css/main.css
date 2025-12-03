@@ -1,0 +1,98 @@
+body{
+
+}
+.container-fliud{
+
+}
+.contain-content {
+    
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    background-color: rgba(O, 0, 0, 0.4);
+    background-blend-mode: lighten;
+}
+.nav-wrapper{
+    height: 75px;
+    background: rgba(63, 61, 61, 0.582)
+}
+.navbar {
+    background-size: contain;
+    max-width: 850px;
+    width: 90%;
+    margin: 0 auto;
+    padding: 15px;
+    
+}
+.icons i{
+    color: #fff;
+    margin: 8px;
+    font-size: 12px
+}
+.main-head{
+    text-align: center;
+    margin: 150px;
+    color: #fff;
+
+}
+.content-section{
+   
+    
+}
+.narrow-container{
+    max-width: 850px;
+    width: 90%;
+    margin: 0 auto;
+    padding: 12px;
+    font-size: 12px;
+    margin-top: 30px;
+}
+.container{
+    background-color: #fff;
+    border-radius: 20px;
+    box-shadow: 0 8px 20px rgba(O, 0, 0, 0.12)
+}
+.pt-3 button{
+    border-radius: 20px !important;
+}
+.form-group  input {
+    background: transparent !important;
+    border-radius: 15px;
+    outline: none !important;
+}
+ input:focus, textarea:focus, .form-control:focus{
+    outline: none !important;
+    box-shadow: none !important;
+    background-color: #f2f2f2 !important;
+    border-color: transparent !important;
+    border: none !important;
+}
+.custom-rounded{
+    border-radius: 20px;
+}
+.icon-circle {
+      width: 48px;            
+      height: 48px;            
+      border-radius: 50%;      
+      display: inline-flex;    
+      align-items: center;
+      justify-content: center;
+      font-size: 24px;        
+      margin: 10px;  
+      background-color: coral;
+           
+}
+.footer-icon{
+    width: 27px;            
+    height: 27px;            
+    border-radius: 50%;      
+    display: inline-flex;    
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;         
+    background-color: coral;
+    margin-left: 5px;
+    padding: 0;
+}
